@@ -43,7 +43,7 @@ The system follows a modular pipeline:
 
 ---
 
-## My Contributions
+## Contributions
 - Designed and implemented the **end-to-end 3D vision pipeline**
 - Integrated **transformer-based models (VGGT)** for multi-view scene understanding
 - Developed **depth-guided optimisation strategies** to improve reconstruction quality
